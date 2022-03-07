@@ -1,0 +1,13 @@
+.userListCardWrapper{
+    background-color: white;
+    padding: 25px 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container{
+    max-width: 1200px;
+    width: 90vw;
+    margin: 0 auto;
+}

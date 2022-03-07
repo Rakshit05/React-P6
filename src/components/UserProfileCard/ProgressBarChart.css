@@ -1,0 +1,29 @@
+.cardUserPlanUsage {
+  font-size: 16px;
+  margin-top: 21px;
+  font-weight: 620;
+  align-self: flex-start;
+}
+.status {
+  font-weight: bold;
+  font-size: x-large;
+}
+.font_size {
+  font-size: small;
+}
+.bar_style {
+  height: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: blue;
+
+}
+
+.division {
+  display: flex;
+  width: 100%;
+}
+
+.child {
+  flex: 1;
+}
